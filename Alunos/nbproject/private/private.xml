@@ -6,8 +6,7 @@
             <file>file:/C:/Users/182210104/Documents/NetBeansProjects/Alunos/src/view/GUICadAluno.java</file>
             <file>file:/C:/Users/182210104/Documents/NetBeansProjects/Alunos/src/DAO/AlunoDAO.java</file>
             <file>file:/C:/Users/182210104/Documents/NetBeansProjects/Alunos/src/modelo/AlunoVO.java</file>
-            <file>file:/C:/Users/182210104/Documents/NetBeansProjects/Alunos/src/servicos/ServicosFactory.java</file>
-            <file>file:/C:/Users/182210104/Documents/NetBeansProjects/Alunos/src/servicos/AlunoServicos.java</file>
+            <file>file:/C:/Users/182210104/Documents/NetBeansProjects/Alunos/src/persistencia/ConexaoBanco.java</file>
         </group>
     </open-files>
 </project-private>

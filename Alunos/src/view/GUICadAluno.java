@@ -22,6 +22,11 @@ public class GUICadAluno extends javax.swing.JInternalFrame {
      */
     public GUICadAluno() {
         initComponents();
+        
+        jtfNome.setDocument(new Limitador(30, Limitador.TipoEntrada.nome));
+        jtfEndereco.setDocument(new Limitador(40, Limitador.TipoEntrada.endereco));
+        jtfCidade.setDocument(new Limitador(15, Limitador.TipoEntrada.cidade));
+        jtaObservacao.setDocument(new Limitador(130, Limitador.TipoEntrada.observacao));
     }
 
     /**
